@@ -23,7 +23,10 @@ The primary objective of the data analysis is to create an annual sales report f
 
 <img width="960" alt="men vs women " src="https://github.com/Blessingdominic/DataAnalystPortfolioProjects/assets/148445896/60812702-ea07-44e3-ac72-2c09e8639bfd">
 
-- Top 5 selling states
+- The middle age group is max contibuting to orders (~50%)
+
+<img width="960" alt="age vs gender" src="https://github.com/Blessingdominic/DataAnalystPortfolioProjects/assets/148445896/7d970d84-eace-4d0a-9d5b-0a2add073a9c">
+
 
 
 
