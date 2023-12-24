@@ -40,6 +40,9 @@ The primary objective of the data analysis is to create an annual sales report f
 - Target female customers of age group (30-49years) living in Maharashtra, Karnataka, Uttar Pradesh, Telangana, and Tamil Nadu by showing ads/offers/coupons available n Amazon, Flipkart, and Myntra.
 
 
+## Reference
+ - ![reference material](https://www.youtube.com/watch?v=gTK5rNhWJyA&t=38s)
+
 
 
 
