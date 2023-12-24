@@ -21,3 +21,7 @@ The primary objective of the data analysis is to create an annual sales report f
 ## Insights
 - Women are more likely to purchase Vrinda's products than men (~64%)
 
+<img width="960" alt="men vs women " src="https://github.com/Blessingdominic/DataAnalystPortfolioProjects/assets/148445896/60812702-ea07-44e3-ac72-2c09e8639bfd">
+
+
+
