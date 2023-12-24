@@ -7,3 +7,9 @@ The data used for this analysis is sourced from the store's sales records, inclu
 The primary objective of the data analysis is to create an annual sales report for 2022. This report will help Vrinda better understand their customers and improve their sales in 2023.
 ## Some Problems to Solve
  1. Comparing the sales and orders using a single chart, which month had the highest sales and orders?
+ 2. Who purchased more, men or women?
+ 3. What are the different order statuses?
+ 4. List the top 5 states contributing to sales
+ 5. Identify the relationship between age and gender based on the number of orders
+ 6. What are the channels contributing to the maximum sales?
+***Kindly download the Excel file from this repository and view in Microsoft Excel***
