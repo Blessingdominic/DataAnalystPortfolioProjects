@@ -14,6 +14,7 @@ The primary objective of the data analysis is to create an annual sales report f
  6. What are the channels contributing to the maximum sales?
 
 ***Kindly download the Excel file from this repository and view in Microsoft Excel***
+### Clothing Store Data: Interactive Dashboard, Pivot Charts, Slicers
 
 ![Snapshot of interacive dashboard](https://github.com/Blessingdominic/DataAnalystPortfolioProjects/assets/148445896/61b4f18a-603c-4bf3-9d3f-4e4dec868463)
 
