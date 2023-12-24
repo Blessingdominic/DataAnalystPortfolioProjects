@@ -6,3 +6,4 @@ The data used for this analysis is sourced from the store's sales records, inclu
 ## Analysis Objectives
 The primary objectives of the data analysis are as follows:
 ### 1. Sales Overview
+      - Understand the overall sales performance during the specified time period.
