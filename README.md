@@ -12,4 +12,5 @@ The primary objective of the data analysis is to create an annual sales report f
  4. List the top 5 states contributing to sales
  5. Identify the relationship between age and gender based on the number of orders
  6. What are the channels contributing to the maximum sales?
+
 ***Kindly download the Excel file from this repository and view in Microsoft Excel***
