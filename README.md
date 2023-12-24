@@ -14,11 +14,12 @@ The primary objective of the data analysis is to create an annual sales report f
  6. What are the channels contributing to the maximum sales?
 
 ***Kindly download the Excel file from this repository and view in Microsoft Excel***
+## Report
 ### Clothing Store Data: Interactive Dashboard, Pivot Charts, Slicers
 
 ![Snapshot of interacive dashboard](https://github.com/Blessingdominic/DataAnalystPortfolioProjects/assets/148445896/61b4f18a-603c-4bf3-9d3f-4e4dec868463)
 
-## Insights
+### Insights
 - Women are more likely to purchase Vrinda's products than men (64%)
 
 ![snapshot of men vs women](https://github.com/Blessingdominic/DataAnalystPortfolioProjects/assets/148445896/2c2d9d49-8823-4ff5-a950-d1475944ed25)
@@ -34,6 +35,9 @@ The primary objective of the data analysis is to create an annual sales report f
 - Top selling states
 
 ![snapshot of top selling states](https://github.com/Blessingdominic/DataAnalystPortfolioProjects/assets/148445896/7ee258b1-9453-4f18-9040-265b225b60b6)
+
+### Conclusion
+- Target female customers of age group (30-49years) living in Maharashtra, Karnataka, Uttar Pradesh, Telangana, and Tamil Nadu by showing ads/offers/coupons available n Amazon, Flipkart, and Myntra.
 
 
 
