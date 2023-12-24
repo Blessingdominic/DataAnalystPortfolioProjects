@@ -19,14 +19,23 @@ The primary objective of the data analysis is to create an annual sales report f
 ![Snapshot of interacive dashboard](https://github.com/Blessingdominic/DataAnalystPortfolioProjects/assets/148445896/61b4f18a-603c-4bf3-9d3f-4e4dec868463)
 
 ## Insights
-- Women are more likely to purchase Vrinda's products than men (~64%)
+- Women are more likely to purchase Vrinda's products than men (64%)
 
-<img width="960" alt="men vs women " src="https://github.com/Blessingdominic/DataAnalystPortfolioProjects/assets/148445896/60812702-ea07-44e3-ac72-2c09e8639bfd">
-
+![snapshot of men vs women](https://github.com/Blessingdominic/DataAnalystPortfolioProjects/assets/148445896/2c2d9d49-8823-4ff5-a950-d1475944ed25)
 
 - The middle age group is max contibuting to orders (~50%)
 
-<img width="960" alt="age vs gender" src="https://github.com/Blessingdominic/DataAnalystPortfolioProjects/assets/148445896/7d970d84-eace-4d0a-9d5b-0a2add073a9c">
+![snapshot of age vs gender](https://github.com/Blessingdominic/DataAnalystPortfolioProjects/assets/148445896/82465175-7b15-4182-86b5-011c72a030df)
+
+- Amazon, Flipkart, and Myntra are the max contributing channels (81%)
+
+![snapshot of channels](https://github.com/Blessingdominic/DataAnalystPortfolioProjects/assets/148445896/a6047ab4-177f-4250-ab52-d5699d8e7157)
+
+- Top selling states
+
+![snapshot of top selling states](https://github.com/Blessingdominic/DataAnalystPortfolioProjects/assets/148445896/7ee258b1-9453-4f18-9040-265b225b60b6)
+
+
 
 
 
