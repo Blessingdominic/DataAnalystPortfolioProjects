@@ -41,7 +41,7 @@ The primary objective of the data analysis is to create an annual sales report f
 
 
 ## Reference
- - ![reference material](https://www.youtube.com/watch?v=gTK5rNhWJyA&t=38s)
+ - Rishabh Mishra on Youtube
 
 
 
